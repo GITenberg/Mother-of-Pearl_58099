@@ -1,11 +1,14 @@
 _repo: Mother-of-Pearl_58099
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Chapman, Frederic
     deathdate: 1918
     gutenberg_agent_id: '35931'
     url: http://www.gutenberg.org/2009/agents/35931
+covers:
+- cover_type: archival
+  image_path: 58099-h/images/cover.jpg
 creator:
   author:
     agent_name: France, Anatole
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/755
     wikipedia: http://en.wikipedia.org/wiki/Anatole_France
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58099#Mother-of-Pearl
 gutenberg_issued: '2018-10-15'
 gutenberg_type: Text
 identifiers:
